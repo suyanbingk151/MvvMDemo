@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MvvMDemo</string>
+
+    <string name="tag1">美女</string>
+
+    <string name="tag2">全部</string>
+</resources>
